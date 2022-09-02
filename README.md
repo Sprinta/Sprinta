@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Sprinta
+- 🌱 I’m currently learning data analytics
